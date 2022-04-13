@@ -1,0 +1,10 @@
+body {
+    color: orange;
+}
+
+#scores-list {
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+
